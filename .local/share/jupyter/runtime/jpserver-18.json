@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/chelseybeck-test-nbinteract-qexcovou/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 18,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "05du_x_uTqiSdA9tvZ-Bag",
+  "url": "http://jupyter-chelseybeck-2dtest-2dnbinteract-2dqexcovou:8888/user/chelseybeck-test-nbinteract-qexcovou/",
+  "version": "1.23.5"
+}
